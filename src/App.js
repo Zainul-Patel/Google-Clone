@@ -7,3 +7,4 @@ export const App = () => {
     </div>
   )
 }
+//stopped at 7.36 of react video 
