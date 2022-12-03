@@ -8,3 +8,4 @@ export const App = () => {
   )
 }
 //stopped at 7.36 of react video 
+//https://www.youtube.com/watch?v=NDbruK1fzG8&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=29
